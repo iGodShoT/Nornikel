@@ -1,0 +1,6 @@
+.idea/
+.venv/
+.gitignore/
+!.dvc
+#/metrics
+#/models
