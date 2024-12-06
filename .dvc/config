@@ -1,3 +1,7 @@
 [core]
     autostage = true
     analytics = false
+    remote = minio-remote
+['remote "minio-remote"']
+    url = s3://nornikel
+    endpointurl = http://185.125.101.135:9000
